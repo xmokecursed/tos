@@ -15,4 +15,3 @@ By using the Bot, the User agrees to be bound by the terms of this Agreement. If
 9. Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Bot.
 
 By using the Bot, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
-!
